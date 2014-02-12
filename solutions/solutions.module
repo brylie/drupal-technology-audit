@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Solutions feature.
+ */
+
+include_once 'solutions.features.inc';
