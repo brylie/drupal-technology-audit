@@ -1,1 +1,3 @@
 name = Technology Audit Toolkit
+description = A toolkit for organizations to audit technology systems.
+core = 7.x
