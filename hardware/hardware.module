@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Hardware feature.
+ */
+
+include_once 'hardware.features.inc';
